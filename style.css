@@ -27,7 +27,7 @@
 /* página completa*/
 body {
   background: var(--bg-url) no-repeat top center/cover;
-  height: 100vh;
+  height: 150vh;
 }
 
 body * {
